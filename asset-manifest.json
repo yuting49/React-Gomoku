@@ -1,0 +1,15 @@
+{
+  "main.css": "/React-gomoku/static/css/main.d3e40ab4.chunk.css",
+  "main.js": "/React-gomoku/static/js/main.96193b82.chunk.js",
+  "main.js.map": "/React-gomoku/static/js/main.96193b82.chunk.js.map",
+  "runtime~main.js": "/React-gomoku/static/js/runtime~main.93ea0d7a.js",
+  "runtime~main.js.map": "/React-gomoku/static/js/runtime~main.93ea0d7a.js.map",
+  "static/css/2.719286ae.chunk.css": "/React-gomoku/static/css/2.719286ae.chunk.css",
+  "static/js/2.c0c20dd6.chunk.js": "/React-gomoku/static/js/2.c0c20dd6.chunk.js",
+  "static/js/2.c0c20dd6.chunk.js.map": "/React-gomoku/static/js/2.c0c20dd6.chunk.js.map",
+  "index.html": "/React-gomoku/index.html",
+  "precache-manifest.b9c68ec161a76a4d5447db278fbd9f82.js": "/React-gomoku/precache-manifest.b9c68ec161a76a4d5447db278fbd9f82.js",
+  "service-worker.js": "/React-gomoku/service-worker.js",
+  "static/css/2.719286ae.chunk.css.map": "/React-gomoku/static/css/2.719286ae.chunk.css.map",
+  "static/css/main.d3e40ab4.chunk.css.map": "/React-gomoku/static/css/main.d3e40ab4.chunk.css.map"
+}
